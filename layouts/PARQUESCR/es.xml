@@ -1,0 +1,32 @@
+<layouts>
+    <layout name="root">
+        <row>
+            <button type="voicerec" icon="logo_voice"/>
+            <button type="picture" icon="logo_camera"/>
+            <button type="textnote" icon="logo_textnote"/>
+        </row>
+        <row>
+            <button type="tag" label="Poste de luz" icon="infraestructura_parques_icons/luz.png" />
+            <button type="tag" label="Edificios" icon="infraestructura_parques_icons/edificio.png"/>
+            <button type="tag" label="Elementos de parque de ninos" icon="infraestructura_parques_icons/parque-ninos.png"/>
+        </row>
+        <row>
+            <button type="tag" label="Bancas" icon="infraestructura_parques_icons/banca.png"/>
+            <button type="tag" label="Tipo de piso" icon="infraestructura_parques_icons/piso.png"/>
+            <button type="tag" label="Mesas" icon="infraestructura_parques_icons/mesa.png"/>
+        </row>
+        <row>
+            <button type="tag" label="Basureros" icon="infraestructura_parques_icons/basurero.png"/>
+            <button type="tag" label="Arboles con arbustos" icon="infraestructura_parques_icons/arbol-arbustos.png"/>
+            <button type="tag" label="Arbol sin arbusto" icon="infraestructura_parques_icons/arbol-solo.png"/>
+        </row>
+        <row>
+            <button type="tag" label="Bebedero (no funcional)" icon="infraestructura_parques_icons/bebedero.png"/>
+            <button type="tag" label="Puesto de guarda" icon="infraestructura_parques_icons/guarda.png"/>
+            <button type="tag" label="Plantas" icon="infraestructura_parques_icons/plantas.png"/>
+        </row>
+        <row>
+            <button type="tag" label="Parada de bus" icon="infraestructura_parques_icons/parada-bus.png"/>
+        </row>
+    </layout>
+</layouts>
