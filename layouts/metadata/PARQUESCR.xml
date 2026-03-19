@@ -1,5 +1,5 @@
 <metadata>
 	<option iso="es" name="Español">PARQUESCR</option>
 	<github username="keylorherreraf" repo="osmtracker-android-layouts-KAJ" branch="master" />
-	<layout lang="es" file="es_subdir.xml"/>
+	<layout lang="es" file="es_simple.xml"/>
 </metadata>
