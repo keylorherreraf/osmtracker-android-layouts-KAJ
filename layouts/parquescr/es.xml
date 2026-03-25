@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layouts>
+	<layout name="root">
+		<row>
+			<button type="voicerec" icon="voice_32x32" />
+			<button type="picture" icon="camera_32x32" />
+			<button type="textnote" icon="text_32x32" />
+		</row>
+		<row>
+			<button type="tag" label="Edificio" icon="/parques_icons/inicio_acera.png" />
+			<button type="tag" label="Tipo de Suelo" icon="/parques_icons/fin_acera.png" />
+		</row>
+		<row>
+			<button type="tag" label="Árbol con arbustos" icon="/parques_icons/arbol.png" />
+			<button type="tag" label="Banca" icon="/parques_icons/banca.png" />
+			<button type="tag" label="Árbol sin arbustos" icon="/parques_icons/arbol.png" />
+		</row>
+		<row>
+			<button type="tag" label="Estatua/Monumento" icon="/parques_icons/estatua.png" />
+			<button type="tag" label="Mesas" icon="/parques_icons/gym.png" />
+			<button type="tag" label="Playground de Niños" icon="/parques_icons/playground.png" />
+		</row>
+		<row>
+			<button type="tag" label="Poste de luz" icon="/parques_icons/luz.png" />
+			<button type="tag" label="Casetilla de Guarda" icon="/parques_icons/camara.png" />
+			<button type="tag" label="Plantas" icon="/parques_icons/playground.png" />
+		</row>
+		<row>
+			<button type="tag" label="Parada de bus" icon="/parques_icons/parada_bus.png" />
+			<button type="tag" label="Bebedero" icon="/parques_icons/parqueo_bici.png" />
+			<button type="tag" label="Basurero" icon="/parques_icons/basurero.png" />
+		</row>
+	</layout>
+
+</layouts>
